@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enkapsulasi", "Enkapsulasi\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstraksi", "Abstraksi\Abstraksi.vcxproj", "{01696297-A8C2-4567-8AE7-771AD40C2989}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstraksiHeader", "AbstraksiHeader\AbstraksiHeader.vcxproj", "{0B0D2A89-EA44-48D2-976B-39659DBF9495}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{01696297-A8C2-4567-8AE7-771AD40C2989}.Release|x64.Build.0 = Release|x64
 		{01696297-A8C2-4567-8AE7-771AD40C2989}.Release|x86.ActiveCfg = Release|Win32
 		{01696297-A8C2-4567-8AE7-771AD40C2989}.Release|x86.Build.0 = Release|Win32
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Debug|x64.ActiveCfg = Debug|x64
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Debug|x64.Build.0 = Debug|x64
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Debug|x86.Build.0 = Debug|Win32
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Release|x64.ActiveCfg = Release|x64
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Release|x64.Build.0 = Release|x64
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Release|x86.ActiveCfg = Release|Win32
+		{0B0D2A89-EA44-48D2-976B-39659DBF9495}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
