@@ -7,11 +7,11 @@ private:
 	string saklarNo[10];
 
 public:
-	void setSaklarNo(int i, string value)
+	void setSaklarNo(int i, string value) // mengisi nilai saklar
 	{
 		saklarNo[i] = value;
 	}
-	string getSaklarNo(int i)
+	string getSaklarNo(int i)			// mendapatkan nilai saklar
 	{
 		return saklarNo[i];
 	}
